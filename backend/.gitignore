@@ -1,0 +1,9 @@
+env/
+settings/__pycache__/
+admin/__pycache__/
+coach/__pycache__/
+user/__pycache__/
+db.sqlite3
+aws/__pycache__/
+
+settings/config.py
